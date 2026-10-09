@@ -21,5 +21,3 @@ python detector_padrao.py
 Cole o texto quando solicitado. O programa retorna o que encontrou.
 
 ---
-
-*Projeto desenvolvido como parte de uma trilha de automação aplicada à segurança da informação e GRC — com foco em identificação de dados pessoais sob a LGPD.*
