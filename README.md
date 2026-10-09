@@ -1,6 +1,9 @@
 # 🔍 Detector de Padrão
 
-Projeto 8 da trilha de Python — detecta dados pessoais sensíveis em textos usando expressões regulares.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![LGPD](https://img.shields.io/badge/LGPD-Dados_Pessoais-E74C3C?style=flat)
+
+Script em Python que detecta dados pessoais sensíveis em textos usando expressões regulares.
 
 ## O que faz
 
@@ -25,6 +28,6 @@ Cole o texto quando solicitado. O programa retorna o que encontrou.
 - 📦 Dicionário aninhado — organiza padrões e descrições por tipo de dado
 - `def`, `for`, `if`, `f-string`
 
-## Contexto
+---
 
-🛡️ Parte de uma trilha prática de Python com foco em GRC e Governança de TI.
+*Projeto desenvolvido como parte de uma trilha de automação aplicada à segurança da informação e GRC — com foco em identificação de dados pessoais sob a LGPD.*
